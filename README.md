@@ -1,4 +1,4 @@
-# monitoring-bot
+# monitoring-bots
 Small-scale bots to monitor the blockchain and mempool. Basic monitoring.
 One for monitoring the blockchain and one for monitoring the mempool.
 
