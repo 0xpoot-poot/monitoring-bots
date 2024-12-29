@@ -1,6 +1,5 @@
+# ignore .env file for privacy
+.env
 
-# .v4p backup files
-*~.xml
-
-# Dynamic plugins .dll
-bin/
+# ignore node_modules to avoid large files
+node_modules/
