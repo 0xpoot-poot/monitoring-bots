@@ -1,5 +1,5 @@
 # monitoring-bot
-Small-scale bots to monitor the blockchain and track each block to see the updates per block. Basic monitoring.
+Small-scale bots to monitor the blockchain and mempool. Basic monitoring.
 One for monitoring the blockchain and one for monitoring the mempool.
 
 These are small-scale bots, so it is not meant to be used in a production environment. It is written in TypeScript and uses the viem library to connect to the blockchain. I am planning on doing a more complex version of this bot in the future using the language Rust, or writing a more complex bot in TypeScript using this template.
