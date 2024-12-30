@@ -7,11 +7,13 @@ These are small-scale bots, so it is not meant to be used in a production enviro
 I would recommend using the viem library to connect to the blockchain.
 If you are not familiar with the viem library, I would recommend checking out the documentation here: https://viem.sh/docs/, specifically the "Getting Started" section. Familiarise yourself with what Client, Actions, RPC, Transport, and Chain are.
 
-Step 1. Install dependencies into the project folder:
+Step 1. Install dependencies:
 ```
-npm install viem
-npm install -D tsx
-npm install dotenv
+npm install
+```
+or 
+```
+pnpm install
 ```
 
 Step 2. Pass in the `chain` you want to monitor into the client.
